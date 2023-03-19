@@ -44,4 +44,16 @@ print(nowa[1])
 print(2 in nowa)
 rozmiar, kolor, typ = [13, "czarny", "kot"]
 
-print(lista.index("1"))
+print(lista)
+lista.insert(1, 0)
+print(lista)
+
+# aby jednoelementowa krotka była poprawnie interpretowana trzeba dać przecinek za elementem
+tupla = (1,)
+listaZTupli = list(tupla)
+tuplaZListy = tuple(listaZTupli)
+
+print(tupla)
+print(listaZTupli)
+print(tuplaZListy)
+
