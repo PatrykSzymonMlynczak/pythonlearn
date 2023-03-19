@@ -1,5 +1,5 @@
 coun_info = {}
-coun_info["poljaki"] = ("łorsoł", 38)
+coun_info["poljaki"] = ("łorsoł", 38, ["sd","sads"])
 coun_info["Dojcze"] = ("Berlin", 83.02)
 coun_info["Słowaki"] = ("Bratisława", 5.45)
 

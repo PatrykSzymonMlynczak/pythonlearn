@@ -44,4 +44,3 @@ while run:
     if list(word) == user_word:
         print("Gratulacje, odgadnąłeś hasło !")
         break
-
